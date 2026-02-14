@@ -56,8 +56,8 @@ Passionate about clean architecture, backend systems, and modern web technologie
 
 ## 💻 Programming Languages
 
-- JavaScript ⭐⭐⭐⭐⭐
 - Java ⭐⭐⭐⭐
+- JavaScript ⭐⭐⭐⭐
 - Python ⭐⭐⭐
 - C++ ⭐⭐
 
@@ -84,14 +84,6 @@ Passionate about clean architecture, backend systems, and modern web technologie
 ## 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Surya_1929?theme=dark&font=Karma&ext=heatmap)
-
----
-
-## 📊 GitHub Stats
-
-![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surya2730&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya2730&layout=compact&theme=radical)
 
 ---
 
@@ -130,6 +122,15 @@ Passionate about clean architecture, backend systems, and modern web technologie
 - Clean code & structured development approach
 - Production-ready mindset
 - Team collaboration & communication skills
+
+---
+
+## 📌 Currently Working On
+
+- 🚀 Strengthening Data Structures & Algorithms
+- 🏗 Learning scalable System Design principles
+- ☁️ Exploring AWS & cloud-based deployments
+- 🔥 Building production-ready MERN applications
 
 ---
 
