@@ -76,7 +76,7 @@ Passionate about clean architecture, backend systems, and modern web technologie
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats]([https://leetcard.jacoblin.cool/surya_1929]?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Surya_1929)
 
 
 ---
