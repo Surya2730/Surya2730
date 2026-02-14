@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Surya Kumar T</h1>
-<h3 align="center">MERN Stack Developer • Problem Solver</h3>
+<h3 align="center">MERN Stack Developer • Problem Solver • Full Stack Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Surya2730&label=Profile%20Views&color=orange&style=for-the-badge" />
+</p>
 
 <p align="center">
 I build scalable, responsive and production-ready web applications using the MERN stack.
@@ -7,7 +11,6 @@ Passionate about clean architecture, backend systems, and modern web technologie
 </p>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Surya2730&label=Profile%20Views&color=orange&style=for-the-badge)
 
 ## 🚀 About Me
 
@@ -15,7 +18,7 @@ Passionate about clean architecture, backend systems, and modern web technologie
 - 🧠 Strong in Data Structures & Algorithms
 - 🌱 Currently exploring System Design & Cloud Deployment
 - ⚡ Love building real-world, scalable applications
-- 🔥 Focused on writing clean and maintainable code
+- 🔥 Focused on writing clean, maintainable, and optimized code
 
 ---
 
@@ -35,6 +38,7 @@ Passionate about clean architecture, backend systems, and modern web technologie
 - RESTful APIs
 - Authentication (JWT, OAuth)
 - API Integration
+- Role-Based Access Control
 
 ### 🗄️ Database
 - MongoDB
@@ -46,7 +50,7 @@ Passionate about clean architecture, backend systems, and modern web technologie
 - Vercel / Netlify
 - Postman
 - VS Code
-- Basic AWS knowledge
+- Basic AWS Knowledge
 
 ---
 
@@ -55,7 +59,7 @@ Passionate about clean architecture, backend systems, and modern web technologie
 - JavaScript ⭐⭐⭐⭐⭐
 - Java ⭐⭐⭐⭐
 - Python ⭐⭐⭐
-- c++ ⭐⭐
+- C++ ⭐⭐
 
 ---
 
@@ -65,52 +69,67 @@ Passionate about clean architecture, backend systems, and modern web technologie
 - Object-Oriented Programming (OOPS)
 - DBMS
 - Operating Systems
-- Computer Networks (Basics)
+- Computer Networks
 
 ---
 
 ## 📈 LeetCode & Coding
 
 - Solving DSA problems regularly
-- Focused on improving problem-solving skills
-- Strong understanding of arrays, strings, recursion, linked lists, trees, graphs
+- Strong in arrays, strings, recursion, linked lists, trees, graphs
+- Focused on improving time & space complexity optimization
+
+---
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Surya_1929)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Surya_1929?theme=dark&font=Karma&ext=heatmap)
 
+---
+
+## 📊 GitHub Stats
+
+![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surya2730&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya2730&layout=compact&theme=radical)
 
 ---
 
 ## 🛠️ Projects
 
-### 🎓 KnowMyCampus (MERN)
+### 🎓 KnowMyCampus (MERN Stack Application)
 - Authentication system (Email + Google Login)
-- Event management (Admin CRUD)
-- Discussion forum
-- Company eligibility checker
-- Responsive UI
+- Event management with Admin CRUD operations
+- Discussion forum module
+- Company eligibility checker based on CGPA & backlogs
 - Role-based access control
+- Fully responsive UI
+
+---
 
 ### 🤖 DropOut Prediction System
-- ML-based prediction systems
-- API-integrated MERN application
-- Authentication system (Email + Google Login)
+- ML-based prediction model
+- Integrated with MERN stack frontend
+- Secure authentication (Email + Google Login)
+- REST API-based backend integration
 
-### 🏦 Student Lab Booking System and OTP based Attendance Verification System
-- Backend APIs using Node.js
-- Authentication system (Email + Google Login)
-- MERN Stack Application
-- Role-based access control
+---
+
+### 🏦 Student Lab Booking & OTP-Based Attendance System
+- Secure lab booking system
+- OTP-based attendance verification
+- Role-based access (Admin / Student)
+- Built using MERN stack architecture
 
 ---
 
 ## 🌟 Strengths
 
-- Strong debugging skills
-- Fast learner & adaptable
-- Clean code & structured development
-- Production-oriented mindset
+- Strong debugging & problem-solving skills
+- Fast learner and highly adaptable
+- Clean code & structured development approach
+- Production-ready mindset
+- Team collaboration & communication skills
 
 ---
 
@@ -119,3 +138,4 @@ Passionate about clean architecture, backend systems, and modern web technologie
 - 💼 LinkedIn: https://www.linkedin.com/in/surya-kumar-t-16a80b28b
 - 📧 Email: suryaselvam.219@gmail.com
 - 🧠 LeetCode: https://leetcode.com/u/surya_1929/
+
