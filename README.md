@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surya Kumar T</h1>
-<h3 align="center">MERN Stack Developer • Full Stack Web Developer • Problem Solver</h3>
+<h3 align="center">MERN Stack Developer • Problem Solver</h3>
 
 <p align="center">
 I build scalable, responsive and production-ready web applications using the MERN stack.
@@ -7,6 +7,7 @@ Passionate about clean architecture, backend systems, and modern web technologie
 </p>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Surya2730&label=Profile%20Views&color=orange&style=for-the-badge)
 
 ## 🚀 About Me
 
@@ -96,7 +97,7 @@ Passionate about clean architecture, backend systems, and modern web technologie
 - API-integrated MERN application
 - Authentication system (Email + Google Login)
 
-### 🏦 Student Lab Booking System and OTP Verification System
+### 🏦 Student Lab Booking System and OTP based Attendance Verification System
 - Backend APIs using Node.js
 - Authentication system (Email + Google Login)
 - MERN Stack Application
