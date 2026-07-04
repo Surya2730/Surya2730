@@ -136,7 +136,7 @@ Passionate about clean architecture, backend systems, and modern web technologie
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/surya-kumar-t-16a80b28b
+- 💼 LinkedIn: https://www.linkedin.com/in/suryakumardev
 - 📧 Email: suryaselvam.219@gmail.com
 - 🧠 LeetCode: https://leetcode.com/u/surya_1929/
 
