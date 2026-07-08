@@ -26,10 +26,7 @@
   <a href="https://github.com/Surya2730?tab=followers">
     <img src="https://img.shields.io/github/followers/Surya2730?label=Followers&style=for-the-badge&color=green" alt="Followers"/>
   </a>
-
-  <a href="https://github.com/Surya2730">
-    <img src="https://img.shields.io/github/stars/Surya2730?affiliations=OWNER&style=for-the-badge&label=Stars" alt="Stars"/>
-  </a>
+  
 </p>
 
 ---
