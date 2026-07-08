@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F7E6&width=435&lines=Hello%2C+I'm+SURYA+KUMAR+T...%F0%9F%91%8B;MERN+Stack+Developer%F0%9F%92%BB;Problem+Solver%F0%9F%A7%A0;Full+Stack+Enthusiast%F0%9F%93%B1)](https://git.io/typing-svg)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=07F7E6&width=435&lines=Hello%2C+I'm+SURYA+KUMAR+T...%F0%9F%91%8B;MERN+Stack+Developer%F0%9F%92%BB;Problem+Solver%F0%9F%A7%A0;Full+Stack+Enthusiast%F0%9F%93%B1)](https://git.io/typing-svg)
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Surya2730&label=Profile%20Views&color=orange&style=for-the-badge" />
