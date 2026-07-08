@@ -1,11 +1,11 @@
 <p align="center">
-   <img src="./assets/banner.png" alt="Surya Kumar T Banner" width="100%"/>
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F7E6&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+SURYA+KUMAR+T...%F0%9F%91%8B;MERN+Stack+Developer%F0%9F%92%BB;Problem+Solver%F0%9F%A7%A0;Full+Stack+Enthusiast%F0%9F%93%B1" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+   <img src="./assets/banner.png" alt="Surya Kumar T Banner" width="100%"/>
 </p>
 
 <p align="center">
@@ -143,7 +143,21 @@ Passionate about clean architecture, backend systems, and modern web technologie
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/suryakumardev
-- 📧 Email: suryaselvam.219@gmail.com
-- 🧠 LeetCode: https://leetcode.com/u/surya_1929/
+<p align="center">
+  <a href="https://www.linkedin.com/in/suryakumardev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Surya2730">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:suryaselvam.219@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/surya_1929/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
