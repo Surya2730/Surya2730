@@ -11,7 +11,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Surya2730&label=Profile%20Views&color=orange&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Surya2730&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+  <a href="https://github.com/Surya2730?tab=followers">
+    <img src="https://img.shields.io/github/followers/Surya2730?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+  </a>
+
+  <a href="https://github.com/Surya2730">
+    <img src="https://img.shields.io/github/stars/Surya2730?affiliations=OWNER&style=for-the-badge&label=Stars" alt="Stars"/>
+  </a>
 </p>
 
 <p align="center">
@@ -23,104 +31,94 @@ Passionate about clean architecture, backend systems, and modern web technologie
 
 ## 🚀 About Me
 
-- 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)
-- 🧠 Strong in Data Structures & Algorithms
-- 🌱 Currently exploring System Design & Cloud Deployment
-- ⚡ Love building real-world, scalable applications
-- 🔥 Focused on writing clean, maintainable, and optimized code
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+
+- 🎓 B.Tech Computer Science and Business Systems @ Bannari Amman Institute of Technology
+- 💻 MERN Stack Developer passionate about building scalable web applications
+- ☕ Strong foundation in Java, OOP, DBMS, OS and Computer Networks
+- 🧩 Solved **300+ LeetCode** problems with a focus on problem-solving
+- 🏆 Ideathon 2025 Thematic Award Winner
+- 🌱 Currently learning **Spring Boot, Microservices, AWS & System Design**
+- 🚀 Looking for **Software Development Engineer (SDE)** opportunities
+
+<br clear="right"/>
 
 ---
 
 ## 🧠 Skills & Expertise
 
-### 🌐 Frontend Development
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Responsive UI Design
+## 💻 Tech Stack & Tools
 
-### ⚙️ Backend Development
-- Node.js
-- Express.js
-- RESTful APIs
-- Authentication (JWT, OAuth)
-- API Integration
-- Role-Based Access Control
-
-### 🗄️ Database
-- MongoDB
-- Mongoose
-- MySQL (Basics)
-
-### ☁️ Deployment & Tools
-- Git & GitHub
-- Vercel / Netlify
-- Postman
-- VS Code
-- Basic AWS Knowledge
-
----
-
-## 💻 Programming Languages
-
-- Java ⭐⭐⭐⭐
-- JavaScript ⭐⭐⭐⭐
-- Python ⭐⭐⭐
-- C++ ⭐⭐
-
----
-
-## 🧠 CS Fundamentals
-
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOPS)
-- DBMS
-- Operating Systems
-- Computer Networks
-
----
-
-## 📈 LeetCode & Coding
-
-- Solving DSA problems regularly
-- Strong in arrays, strings, recursion, linked lists, trees, graphs
-- Focused on improving time & space complexity optimization
-
----
-
-## 📊 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Surya_1929?theme=dark&font=Karma&ext=heatmap)
+| Category | Technologies |
+|----------|--------------|
+| 🌐 **Full Stack** | <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite" /><br>React • Node.js • Express.js • Vite • REST APIs |
+| ☕ **Java** | <img src="https://skillicons.dev/icons?i=java,spring,maven" /><br>Core Java • OOP • Spring Boot *(Learning)* • Maven |
+| 🗄️ **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br>MongoDB • MySQL |
+| ☁️ **Cloud & Deployment** | <img src="https://skillicons.dev/icons?i=aws,docker,vercel,render" /><br>AWS *(Learning)* • Docker *(Learning)* • Vercel • Render |
+| 👨‍💻 **Languages** | <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" /><br>Java • JavaScript • Python • C • C++ |
+| 🛠️ **Tools & IDEs** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" /><br>Git • GitHub • VS Code • IntelliJ IDEA • Postman |
+| 📚 **Currently Learning** | <img src="https://skillicons.dev/icons?i=spring,aws,docker" /><br>Spring Boot • Microservices • AWS • Docker • System Design |
 
 ---
 
 ## 🛠️ Projects
 
-### 🎓 KnowMyCampus (MERN Stack Application)
-- Authentication system (Email + Google Login)
-- Event management with Admin CRUD operations
-- Discussion forum module
-- Company eligibility checker based on CGPA & backlogs
-- Role-based access control
-- Fully responsive UI
+## 🚀 Featured Projects
+
+### 🎓 [KnowMyCampus – Smart College Portal](https://github.com/Surya2730/KnowMyCampus)
+
+> **Tech Stack:** MongoDB • Express • React • Node
+
+- 🔐 Email & Google Authentication
+- 📅 Event Management System with Admin CRUD
+- 💬 Discussion Forum for Students
+- 🏢 Company Eligibility Checker
+- 👥 Role-Based Access Control
+- 📱 Fully Responsive UI
+
+**🔗 Repository:** *https://github.com/Surya2730/KnowMyCampus*
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
-### 🤖 DropOut Prediction System
-- ML-based prediction model
-- Integrated with MERN stack frontend
-- Secure authentication (Email + Google Login)
-- REST API-based backend integration
+### 🛰️ [AI-Enabled Smart Infrastructure Audit & Inspection System](https://github.com/Surya2730/AuditManagement)
+
+> **Tech Stack:** MERN • JWT • GeoLocation • Cloudinary
+
+- 📍 Live GPS Verification
+- 📸 Geo-tagged Audit Reports
+- 📝 Digital Audit Workflow
+- 📊 Admin Dashboard & Analytics
+- 🔒 Secure Authentication
+
+**🔗 Repository:** *https://github.com/Surya2730/AuditManagement*
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
-### 🏦 Student Lab Booking & OTP-Based Attendance System
-- Secure lab booking system
-- OTP-based attendance verification
-- Role-based access (Admin / Student)
-- Built using MERN stack architecture
+### 🤖 [Student Dropout Prediction System](https://github.com/Surya2730/Dropout_Prediction_System)
+
+> **Tech Stack:** MERN • Python • Scikit-learn • Flask
+
+- 🎯 ML model with **84% Accuracy**
+- 📈 Student Risk Prediction
+- 🔐 Secure Authentication
+- 🌐 MERN Frontend Integration
+
+**🔗 Repository:** *https://github.com/Surya2730/DropOut_Prediction_System*
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
