@@ -1,4 +1,11 @@
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1200&color=00F7EE&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile...%F0%9F%99%8F%F0%9F%8F%BB;Hello%2C+I'm+Surya+Kumar+T...%F0%9F%91%8B"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <p align="center">
    <img src="./assets/banner.png" alt="Surya Kumar T Banner" width="100%"/>
@@ -6,7 +13,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F7E6&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+SURYA+KUMAR+T...%F0%9F%91%8B;MERN+Stack+Developer%F0%9F%92%BB;Problem+Solver%F0%9F%A7%A0;Full+Stack+Enthusiast%F0%9F%93%B1" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=07F7E6&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer%F0%9F%92%BB;Problem+Solver%F0%9F%A7%A0;Full+Stack+Enthusiast%F0%9F%93%B1"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
@@ -122,6 +132,22 @@ Passionate about clean architecture, backend systems, and modern web technologie
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya2730&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img width="65%" src="https://leetcard.jacoblin.cool/surya_1929?theme=dark&font=Nunito&ext=contest" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -140,17 +166,4 @@ Passionate about clean architecture, backend systems, and modern web technologie
   <a href="https://leetcode.com/u/surya_1929/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Surya2730&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=Surya2730&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya2730&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
