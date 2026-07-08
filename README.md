@@ -24,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=Surya2730&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
   <a href="https://github.com/Surya2730?tab=followers">
-    <img src="https://img.shields.io/github/followers/Surya2730?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/Surya2730?label=Followers&style=for-the-badge&color=green" alt="Followers"/>
   </a>
 
   <a href="https://github.com/Surya2730">
