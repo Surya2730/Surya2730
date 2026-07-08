@@ -47,7 +47,7 @@ I'm **Surya Kumar T**, a Software Developer passionate about frontend developmen
 - 🎓 B.Tech Computer Science and Business Systems @ Bannari Amman Institute of Technology
 - 💻 MERN Stack Developer passionate about building scalable web applications
 - ☕ Strong foundation in Java, OOP, DBMS, OS and Computer Networks
-- 🧩 Solved **300+ LeetCode** problems with a focus on problem-solving
+- 🧩 Solved **400+ LeetCode** problems with a focus on problem-solving
 - 🏆 Ideathon 2025 Thematic Award Winner
 - 🌱 Currently learning **Spring Boot, Microservices, AWS & System Design**
 - 🚀 Looking for **Software Development Engineer (SDE)** opportunities
@@ -83,7 +83,7 @@ I'm **Surya Kumar T**, a Software Developer passionate about frontend developmen
 - 👥 Role-Based Access Control
 - 📱 Fully Responsive UI
 
-**🔗 Repository:** *https://github.com/Surya2730/KnowMyCampus*
+**🔗 Repository:** *https://github.com/Surya2730/KnowMyCampusDemo*
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
