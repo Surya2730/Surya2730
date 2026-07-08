@@ -32,12 +32,13 @@
   </a>
 </p>
 
-<p align="center">
-I build scalable, responsive and production-ready web applications using the MERN stack.
-Passionate about clean architecture, backend systems, and modern web technologies.
-</p>
-
 ---
+
+## 👋 Introduction
+
+I'm **Surya Kumar T**, a Software Developer passionate about frontend development and full-stack web technologies. I specialize in building scalable, responsive, and production-ready web applications using the MERN stack. With a strong foundation in Java, Data Structures & Algorithms, and core computer science concepts, I enjoy solving complex problems, exploring modern technologies, and transforming innovative ideas into practical, real-world applications.
+
+--- 
 
 ## 🚀 About Me
 
@@ -55,8 +56,6 @@ Passionate about clean architecture, backend systems, and modern web technologie
 
 ---
 
-## 🧠 Skills & Expertise
-
 ## 💻 Tech Stack & Tools
 
 | Category | Technologies |
@@ -70,8 +69,6 @@ Passionate about clean architecture, backend systems, and modern web technologie
 | 📚 **Currently Learning** | <img src="https://skillicons.dev/icons?i=spring,aws,docker" /><br>Spring Boot • Microservices • AWS • Docker • System Design |
 
 ---
-
-## 🛠️ Projects
 
 ## 🚀 Featured Projects
 
