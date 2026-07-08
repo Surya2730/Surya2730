@@ -1,11 +1,13 @@
+
+
+<p align="center">
+   <img src="./assets/banner.png" alt="Surya Kumar T Banner" width="100%"/>
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F7E6&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+SURYA+KUMAR+T...%F0%9F%91%8B;MERN+Stack+Developer%F0%9F%92%BB;Problem+Solver%F0%9F%A7%A0;Full+Stack+Enthusiast%F0%9F%93%B1" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-   <img src="./assets/banner.png" alt="Surya Kumar T Banner" width="100%"/>
 </p>
 
 <p align="center">
