@@ -142,8 +142,9 @@ Passionate about clean architecture, backend systems, and modern web technologie
 
 ## 🧠 LeetCode Stats
 
+
 <p align="center">
-  <img width="65%" src="https://leetcard.jacoblin.cool/surya_1929?theme=dark&font=Nunito&ext=contest" />
+  <img width="65%" src="https://leetcard.jacoblin.cool/surya_1929?theme=dark&font=Nunito" />
 </p>
 
 ---
