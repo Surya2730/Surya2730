@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1200&color=00F7EE&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile...%F0%9F%99%8F%F0%9F%8F%BB;Hello%2C+I'm+Surya+Kumar+T...%F0%9F%91%8B"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1200&color=00F7EE&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub...%F0%9F%99%8F%F0%9F%8F%BB;Hello%2C+I'm+Surya+Kumar+T...%F0%9F%91%8B"
       alt="Typing SVG"
     />
   </a>
@@ -168,7 +168,7 @@ I'm **Surya Kumar T**, a Software Developer passionate about frontend developmen
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=08F7EE&center=true&vCenter=true&width=1000&lines=Thank+You+for+Visiting+My+Profile!+%F0%9F%91%8B;Let's+Connect+and+Build+Something+Amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=08F7EE&center=true&vCenter=true&width=1000&lines=Thank+You+for+Visiting+My+GitHub!+%F0%9F%91%8B;Let's+Connect+and+Build+Something+Amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB"
       alt="Typing SVG"
     />
   </a>
