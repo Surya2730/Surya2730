@@ -122,25 +122,6 @@ Passionate about clean architecture, backend systems, and modern web technologie
 
 ---
 
-## 🌟 Strengths
-
-- Strong debugging & problem-solving skills
-- Fast learner and highly adaptable
-- Clean code & structured development approach
-- Production-ready mindset
-- Team collaboration & communication skills
-
----
-
-## 📌 Currently Working On
-
-- 🚀 Strengthening Data Structures & Algorithms
-- 🏗 Learning scalable System Design principles
-- ☁️ Exploring AWS & cloud-based deployments
-- 🔥 Building production-ready MERN applications
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -161,3 +142,15 @@ Passionate about clean architecture, backend systems, and modern web technologie
   </a>
 </p>
 
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Surya2730&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Surya2730&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya2730&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
