@@ -39,7 +39,7 @@ I'm **Surya Kumar T**, a Software Developer passionate about frontend developmen
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<img align="right" alt="Coding" width="350" src="./assets/Surya Official image.jpeg"/>
 
 - 🎓 B.Tech Computer Science and Business Systems @ Bannari Amman Institute of Technology
 - 💻 MERN Stack Developer passionate about building scalable web applications
